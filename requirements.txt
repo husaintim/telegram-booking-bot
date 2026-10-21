@@ -1,0 +1,4 @@
+python-telegram-bot>=20
+asyncpg
+pytz
+nest_asyncio
